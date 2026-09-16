@@ -1,0 +1,2 @@
+# Phase 1 runs on the standard library only.
+# Later phases will pin dependencies here (e.g. py-ecc for Phase 2+).
