@@ -54,5 +54,5 @@ computationally infeasible (index calculus, the best known attack, is ~`2^100`).
   discrete log.
 
 ## Further reading
-- Boneh & Shoup, chapters 1–2, 10 (free draft online)
+- Boneh & Shoup, chapters 1–2, 10
 - Victor Shoup, *A Computational Introduction to Modern Number Theory*
